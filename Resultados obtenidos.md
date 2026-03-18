@@ -1,0 +1,1 @@
+Las pruebas demostraron que el sitio web funciona correctamente, con buena carga, navegación adecuada, botones funcionales y formularios bien validados. Además, es estable, se adapta a distintos dispositivos y cumple con todos los requerimientos establecidos.
