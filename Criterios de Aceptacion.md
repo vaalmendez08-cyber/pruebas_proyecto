@@ -1,0 +1,1 @@
+El sistema cumple con los criterios de aceptación cuando funciona sin errores, permite una navegación clara e intuitiva, los enlaces y botones realizan correctamente sus funciones, los formularios validan la información e impiden envíos incompletos, muestra mensajes adecuados ante errores y se adapta correctamente a distintos dispositivos, operando de forma continua sin fallos.
